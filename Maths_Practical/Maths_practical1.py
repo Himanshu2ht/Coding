@@ -37,3 +37,5 @@ print("The Cofactor of a Matrix is:", "\n", Cofactor_of_A)
 # For finding the Adjoint of a Matrix
 Adjoint_of_A = np.transpose(Cofactor_of_A)
 print("The Adjoint of a Matrix is:", "\n", Adjoint_of_A)
+
+print("End of code")
