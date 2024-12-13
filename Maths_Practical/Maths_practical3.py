@@ -3,7 +3,7 @@
 import numpy as np
 
 # #Taking Input of Matrix From user (User Define matrix Input)
-# #NR: Number of Rows
+# #NR: Number of Rows 
 # #NC: Number of Column
 
 # ##Coefficient Matrix (A) Elements
